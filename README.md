@@ -9,7 +9,7 @@ The included projects are:
   <li>Half_subtractor</li>
   <li>Full_subtractor</li>
   <li>Multiplier</li>
-  <ul>
+  <ul><br>
   
 
 <li>Sequential ckts</li>

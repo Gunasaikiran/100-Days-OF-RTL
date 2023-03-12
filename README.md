@@ -9,6 +9,9 @@ The included projects are:
   <li>Half_subtractor</li>
   <li>Full_subtractor</li>
   <li>Multiplier</li>
+  <li>Ripple_carry_adder</li>
+  <li>Carry_look_ahead_adder</li>
+  <li>16_bit_adder</li>
   </ul><br>
 <li>Sequential ckts</li>
 </ul>

@@ -9,11 +9,8 @@ The included projects are:
   <li>Half_subtractor</li>
   <li>Full_subtractor</li>
   <li>Multiplier</li>
-  <ul><br>
+  </ul><br>
 <li>Sequential ckts</li>
-
-
-
 </ul>
 
 The simulations are performed in Xilinx and iverilog, gtkwave is used to code and debug.

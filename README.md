@@ -10,8 +10,6 @@ The included projects are:
   <li>Full_subtractor</li>
   <li>Multiplier</li>
   <ul><br>
-  
-
 <li>Sequential ckts</li>
 
 

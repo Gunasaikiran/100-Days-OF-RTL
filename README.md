@@ -12,6 +12,7 @@ The included projects are:
   <li>Ripple_carry_adder</li>
   <li>Carry_look_ahead_adder</li>
   <li>16_bit_adder</li>
+  <li>16to1_mux using 4to1_mux And 2to1_mux</li>
   </ul><br>
 <li>Sequential ckts</li>
 </ul>

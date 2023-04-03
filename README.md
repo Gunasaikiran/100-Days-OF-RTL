@@ -13,11 +13,9 @@ The included projects are:
   <li>Day7:Carry_look_ahead_adder</li>
   <li>Day8:16_bit_adder</li>
   <li>Day9:16to1_mux using 4to1_mux And 2to1_mux</li>
-  <li>Day10:16_bit_adder</li>
-  <li>Day11:16_bit_adder</li>
-  <li>Day12:16_bit_adder</li>
-  <li>Day13:16_bit_adder</li>
-  <li>Day14:16_bit_adder</li>
+  <li>Day10:4to1_Demux</li>
+  <li>Day11:N-bit_comparator</li>
+  <li>Day12:8to3_encoder</li>
   </ul><br>
 <li>Sequential ckts</li>
 </ul>

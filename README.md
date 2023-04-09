@@ -4,15 +4,18 @@ The included projects are:
 <ul>
 <li>Combinational ckts</li>
   <ul>
-  <li>Half_adder</li>
-  <li>Full_adder</li>
-  <li>Half_subtractor</li>
-  <li>Full_subtractor</li>
-  <li>Multiplier</li>
-  <li>Ripple_carry_adder</li>
-  <li>Carry_look_ahead_adder</li>
-  <li>16_bit_adder</li>
-  <li>16to1_mux using 4to1_mux And 2to1_mux</li>
+  <li>Day1:Half_adder</li>
+  <li>Day2:Full_adder</li>
+  <li>Day3:Half_subtractor</li>
+  <li>Day4:Full_subtractor</li>
+  <li>Day5:Multiplier</li>
+  <li>Day6:Ripple_carry_adDay1:der</li>
+  <li>Day7:Carry_look_ahead_adder</li>
+  <li>Day8:16_bit_adder</li>
+  <li>Day9:16to1_mux using 4to1_mux And 2to1_mux</li>
+  <li>Day10:4to1_Demux</li>
+  <li>Day11:N-bit_comparator</li>
+  <li>Day12:8to3_encoder</li>
   </ul><br>
 <li>Sequential ckts</li>
 </ul>
